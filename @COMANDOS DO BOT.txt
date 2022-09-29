@@ -1,0 +1,20 @@
+1 - vai nas configurações do app , permite o armazenamento 
+
+2 - cd /sdcard/download ou cd /sdcard/
+
+3  - ls
+
+4 - cd VirtualVoison
+
+5 - pkg upgrade
+
+6 - apt upgrade
+
+7 - apt update -y
+
+8 - pkg install nodejs -y
+
+9 - pkg install ffmpeg -y
+
+10 - node main.js (para iniciar)
+
